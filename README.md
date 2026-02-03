@@ -3,7 +3,7 @@
 
 This article and sample code demonstrate how to use the LSEG Data Library for Python to calculate Normal Beta, Beta Up, and Beta Down for any company and index on any given date, following the methodology outlined in the Company Beta Types – Historical Workspace Excel template.
 
-![](company_beta_template.png)
+![](./company_beta_template.png)
 
 This methodology incorporates different parameters for each type of Beta, including the calculation range and the periodicity of the data.
 
